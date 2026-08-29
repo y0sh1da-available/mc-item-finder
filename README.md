@@ -24,10 +24,12 @@ Clone the repository:
 git clone [https://github.com/](https://github.com/)<your-username>/minecraft-item-finder.git
 cd minecraft-item-finder
 
+
+```
+
 ---
 
 ## Usage
 python mc_item_finder.py "<path_to_region_folder>" -q <target_query_1> [target_query_2 ...]
 
 ---
-
